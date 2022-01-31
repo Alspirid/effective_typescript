@@ -1,0 +1,22 @@
+{
+  "name": "effective_typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alspirid/effective_typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alspirid/effective_typescript/issues"
+  },
+  "homepage": "https://github.com/Alspirid/effective_typescript#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.0"
+  }
+}
